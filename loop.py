@@ -166,8 +166,3 @@
 # # behind the scene loops
 # print(a)
 
-a="sanskar"
-b=set()
-for i in a:
-    b.add(i)
-    print(b,':',b.count(i))
